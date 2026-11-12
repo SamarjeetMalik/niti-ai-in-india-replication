@@ -1,0 +1,224 @@
+{
+ "A. Baseline: log GDPpc (PPP)": {
+  "n": 185,
+  "Policy Capacity": [
+   59.3,
+   2.19,
+   99
+  ],
+  "AI Infrastructure": [
+   22.8,
+   2.68,
+   98
+  ],
+  "Governance": [
+   16.0,
+   0.81,
+   77
+  ],
+  "Public Sector Adoption": [
+   35.8,
+   1.69,
+   96
+  ],
+  "Development & Diffusion": [
+   27.2,
+   2.11,
+   98
+  ],
+  "Resilience": [
+   19.8,
+   1.42,
+   90
+  ],
+  "rank_resid_pct": 99,
+  "ci": {
+   "Policy Capacity": [
+    55.1,
+    62.7
+   ],
+   "AI Infrastructure": [
+    21.6,
+    23.8
+   ],
+   "Governance": [
+    12.8,
+    19.0
+   ],
+   "Public Sector Adoption": [
+    32.5,
+    38.8
+   ],
+   "Development & Diffusion": [
+    25.4,
+    28.6
+   ],
+   "Resilience": [
+    17.8,
+    21.6
+   ]
+  }
+ },
+ "B. + log population": {
+  "n": 185,
+  "Policy Capacity": [
+   15.8,
+   0.78,
+   76
+  ],
+  "AI Infrastructure": [
+   10.8,
+   1.57,
+   93
+  ],
+  "Governance": [
+   -18.1,
+   -1.32,
+   10
+  ],
+  "Public Sector Adoption": [
+   8.5,
+   0.47,
+   68
+  ],
+  "Development & Diffusion": [
+   6.5,
+   0.67,
+   72
+  ],
+  "Resilience": [
+   2.7,
+   0.22,
+   58
+  ],
+  "rank_resid_pct": 69,
+  "ci": {
+   "Policy Capacity": [
+    8.9,
+    21.2
+   ],
+   "AI Infrastructure": [
+    7.2,
+    13.5
+   ],
+   "Governance": [
+    -22.3,
+    -12.7
+   ],
+   "Public Sector Adoption": [
+    1.8,
+    14.5
+   ],
+   "Development & Diffusion": [
+    2.1,
+    10.1
+   ],
+   "Resilience": [
+    -1.9,
+    7.2
+   ]
+  }
+ },
+ "C. Income in current US$": {
+  "n": 192,
+  "Policy Capacity": [
+   65.9,
+   2.3,
+   99
+  ],
+  "AI Infrastructure": [
+   27.4,
+   3.05,
+   98
+  ],
+  "Governance": [
+   22.2,
+   1.05,
+   86
+  ],
+  "Public Sector Adoption": [
+   42.1,
+   1.85,
+   98
+  ],
+  "Development & Diffusion": [
+   31.5,
+   2.38,
+   98
+  ],
+  "Resilience": [
+   24.6,
+   1.76,
+   94
+  ],
+  "rank_resid_pct": 99
+ },
+ "D. Excl. small states (<1m pop)": {
+  "n": 151,
+  "Policy Capacity": [
+   15.4,
+   0.74,
+   75
+  ],
+  "AI Infrastructure": [
+   7.2,
+   1.23,
+   89
+  ],
+  "Governance": [
+   -12.4,
+   -0.9,
+   19
+  ],
+  "Public Sector Adoption": [
+   14.4,
+   0.82,
+   79
+  ],
+  "Development & Diffusion": [
+   1.1,
+   0.13,
+   57
+  ],
+  "Resilience": [
+   -1.4,
+   -0.12,
+   44
+  ],
+  "rank_resid_pct": 75
+ },
+ "E. Low & middle income only": {
+  "n": 123,
+  "Policy Capacity": [
+   17.1,
+   0.86,
+   77
+  ],
+  "AI Infrastructure": [
+   14.6,
+   2.17,
+   96
+  ],
+  "Governance": [
+   -18.9,
+   -1.34,
+   8
+  ],
+  "Public Sector Adoption": [
+   13.2,
+   0.69,
+   75
+  ],
+  "Development & Diffusion": [
+   12.1,
+   1.49,
+   93
+  ],
+  "Resilience": [
+   8.4,
+   0.79,
+   77
+  ],
+  "rank_resid_pct": 76
+ }
+}

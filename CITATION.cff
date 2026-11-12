@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use these files, please cite them as below."
+title: 'Replication files for "Artificial Intelligence in India: Readiness, Gaps and Policy Priorities for Viksit Bharat"'
+type: software
+authors:
+  - family-names: Malik
+    given-names: Samarjeet
+    orcid: "https://orcid.org/0009-0003-9924-7432"
+    affiliation: Ashoka University
+  - family-names: Hooda
+    given-names: Kanishk
+version: v1.0.0
+date-released: 2026-11-12
+doi: 10.5281/zenodo.24165211
+repository-code: "https://github.com/SamarjeetMalik/niti-ai-in-india-replication"
+license:
+  - MIT
+  - CC-BY-SA-4.0
+keywords:
+  - artificial intelligence policy
+  - India
+  - AI readiness
+  - replication

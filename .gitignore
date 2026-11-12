@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.DS_Store
+/analysis_out.json
+/robust_out.json
+/robust_ci_points.json
+/appendix_out.json
+/appendix_boot_out.json
+/appendix_rd_window_out.json
